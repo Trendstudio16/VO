@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1747533838",
+        "name": "Bananas",
+        "description": "1kg de bananas",
+        "price": 8000,
+        "stock": 0,
+        "unit": "KG",
+        "image": "uploads\/prod_1747534627.png"
+    },
+    {
+        "id": "1747534197",
+        "name": "Durazno",
+        "description": "1 kg de durazno",
+        "price": 5000,
+        "stock": 24,
+        "unit": "KG",
+        "image": "uploads\/prod_1747534197.png"
+    },
+    {
+        "id": "1747535038",
+        "name": "MELON",
+        "description": "1 KG DE MELON, SE VENDE SOLO UNIDAD ENTERA",
+        "price": 8000,
+        "stock": 13,
+        "unit": "KG",
+        "image": "uploads\/prod_1747578874.png"
+    },
+    {
+        "id": "1747535587",
+        "name": "Frutillas",
+        "description": "1kg de frutillas",
+        "price": 7000,
+        "stock": 12,
+        "unit": "KG",
+        "image": "uploads\/prod_1747535587.png"
+    }
+]
